@@ -1,0 +1,15 @@
+{
+	"name": "com.iptech.nsubstitute",
+	"version": "1.0.0",
+
+	"displayName": "IPTech.NSubstitute",
+	"description": "A distribution of NSubstitute to use with Unity package dependencies",
+	"unity": "2018.1",
+
+	"keywords": [ "nsubstitute", "test", "mock", "debug", "unity3d", "c#" ],
+
+	"author": {
+		"name": "Ian Pilipski",
+		"url": "http://github.com/ianpilipski"
+	}
+}
