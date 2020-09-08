@@ -14,7 +14,7 @@ Add the following to your Packages/manifest.json file in your Unity project root
     }
   ],
   "dependencies": {
-    "com.iptech.nsubstitute": "1.0.1"
+    "com.iptech.nsubstitute": "1.0.2"
   }
 }
 ```
