@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "com.iptech.nsubstitute": {
+      "version": "file:IPTech.NSubstitute",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    }
+  }
+}
